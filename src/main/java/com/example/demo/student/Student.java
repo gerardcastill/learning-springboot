@@ -6,6 +6,7 @@ import java.time.Period;
 
 //Contains Student information with getters, setters, and toString()
 //test
+//test2
 //@Entity is used with @Transactional and postgreSQL to manage updates to DB
 @Entity
 @Table
